@@ -1,4 +1,4 @@
-# mindfulness_amygdala_stress
+# mindfulness_amygdala_stress from openmind7
 
 This is a github repository for the Mindfulness Intervention for Neurocognitive Development in Schools (MINDS) project.
 
